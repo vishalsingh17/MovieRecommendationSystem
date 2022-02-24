@@ -50,5 +50,4 @@ Two MovieLens datasets are used here. (link : https://www.kaggle.com/rounakbanik
 
 We will build our Simple Recommender using movies from the *Full Dataset* whereas all personalized recommender systems will make use of the small dataset (due to the computing power I possess being very limited).
 
-# Origin:
-Movies Capstone Project (https://github.com/rounakbanik/movies)
+
